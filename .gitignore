@@ -1,0 +1,4 @@
+# Compilado: el .exe se publica en Releases, no en el repositorio
+dist/
+*.exe
+*.pdb
